@@ -17,7 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.sarthakvitmal.mobile"
+      "package": "com.yashrajchoudhary.mobile"
     },
     "web": {
       "bundler": "metro",
@@ -45,6 +45,6 @@
         "projectId": "dd6376ea-eec2-48c1-af43-c4423f4c8776"
       }
     },
-    "owner": "sarthakvitmal"
+    "owner": "yashrajchoudhary"
   }
 }

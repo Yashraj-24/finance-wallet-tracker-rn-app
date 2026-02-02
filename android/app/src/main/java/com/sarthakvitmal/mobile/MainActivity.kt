@@ -1,4 +1,4 @@
-package com.sarthakvitmal.mobile
+package com.yashrajchoudhary.mobile
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build
